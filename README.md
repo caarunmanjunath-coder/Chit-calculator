@@ -1,1 +1,4 @@
-Download html (./Chit Cal.html)
+
+## 📥 Download HTML File
+
+[Click here to download](./Chit%20Cal.html)
